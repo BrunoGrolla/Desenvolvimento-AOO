@@ -37,7 +37,18 @@ O backlog contém as principais funcionalidades que serão desenvolvidas no sist
 
 ---
 
-### Sprints Planejadas
+## 📌
+
+[Diagrama Login](https://github.com/BrunoGrolla/Desenvolvimento-AOO/raw/refs/heads/main/Logincompleto.asta)
+[Diagrama Cadastro de chamado](https://github.com/BrunoGrolla/Desenvolvimento-AOO/raw/refs/heads/main/Cadastro%20de%20chamado.asta)
+[Diagrama I.A](https://github.com/BrunoGrolla/Desenvolvimento-AOO/raw/refs/heads/main/I.A.asta)
+[Diagrama Prioridade de chamado](https://github.com/BrunoGrolla/Desenvolvimento-AOO/raw/refs/heads/main/Prioridade%20de%20chamado.asta)
+[Diagrama SLA](https://github.com/BrunoGrolla/Desenvolvimento-AOO/raw/refs/heads/main/SLA.Astah.asta)
+[Diagrama Segmentação de Área]()
+
+---
+
+## 📌Sprints Planejadas
 Cada sprint terá duração de 2 semanas.
 
 #### Sprint 1 - Autenticação e Perfis de Usuário
