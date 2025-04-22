@@ -56,58 +56,18 @@ O backlog contém as principais funcionalidades que serão desenvolvidas no sist
 ## 📌Sprints Planejadas
 Cada sprint terá duração de 2 semanas.
 
-#### Sprint 1 - Autenticação e Perfis de Usuário
-Estabelecer a base de segurança e autenticação do sistema.
+#### Sprint 1 - Backlog
 
--Implementar sistema de login com e-mail e senha
--Validação de credenciais
--Diferenciação de perfis (usuário comum, atendente, gerente, admin)
--Controle de sessão
+#### Sprint 2 - Sprint Backlog
 
-#### Sprint 2 - Abertura e Gestão de Chamados
-Permitir a criação e visualização dos chamados.
+#### Sprint 3 - Requisitos Funcionais e não Funcionais
 
--Cadastro de chamado (título, descrição, área, prioridade)
--Notificação por e-mail na criação
--Listagem de chamados por usuário
--Visualização de detalhes de um chamado
+#### Sprint 4 - Diagramas de Caso de Uso
 
-#### Sprint 3 - Gestão de Prioridades e SLA
-Implementar lógica de prioridade e controle de prazos.
+#### Sprint 5 - Diagramas de Sequencia e Classe
 
--Classificação de prioridade (Baixa, Média, Alta)
--Reclassificação por atendentes/gerentes
--Configuração de SLAs por prioridade
--Alertas de proximidade do prazo limite
--Relatórios de cumprimento/violação de SLA
+#### Sprint 6 - Diagrama de Implementação
 
-#### Sprint 4 - Segmentação de Área e Roteamento
-Organizar o atendimento por áreas específicas.
-
--Cadastro e gestão de áreas
--Roteamento automático com base na descrição
--Visualização restrita de chamados por área
--Acompanhamento em tempo real do chamado pelo solicitante
-
-#### Sprint 5 - Inteligência Artificial
-Início da criação com IA.
-
--Integração com motor de IA (ex: modelo NLP treinado ou integração com serviço externo)
--Sugestão de solução com base na descrição do problema
--Classificação automática da prioridade
--Sugestão de área responsável
-
-#### Sprint 6 - Refinamento da IA + Relatórios Gerenciais
-Aprimorar automações e oferecer dashboards.
-
--Treinamento contínuo do modelo de IA
--Feedback de efetividade da sugestão (foi útil ou não)
-
-#### Sprint 7 - Testes Finais
-Garantir qualidade do sistema antes da entrega.
-
--Testes automatizados e manuais
--Ajustes finais.
 
 ### ✅ Requisitos Funcionais por Módulo
 #### Login de Funcionário
