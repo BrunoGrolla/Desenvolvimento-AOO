@@ -37,12 +37,7 @@ O backlog contém as principais funcionalidades que serão desenvolvidas no sist
 
 ---
 
-## 📌 Diagramas do Sistema
-
-COLOCAR OS LINKS DO ASTAH AQUI!!!!!
-
-
-### 5. Sprints Planejadas
+### Sprints Planejadas
 Cada sprint terá duração de 2 semanas.
 
 #### Sprint 1 - Autenticação e Perfis de Usuário
