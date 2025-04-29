@@ -54,6 +54,7 @@ Cada sprint terá duração de 2 semanas.
 
 
 ### ✅ Requisitos Funcionais por Módulo
+
 #### Login de Funcionário
 -O sistema deve permitir login com e-mail e senha.
 -O sistema deve validar credenciais e exibir mensagens de erro apropriadas.
@@ -83,6 +84,7 @@ Cada sprint terá duração de 2 semanas.
 -A IA deve analisar a descrição do chamado e sugerir possíveis soluções.
 
 ### ✅ Requisitos Não Funcionais (Simplificados)
+
 #### Segurança
 -O sistema deve ter login com senha protegida.
 -Apenas usuários autorizados podem acessar suas áreas específicas.
@@ -103,6 +105,7 @@ Cada sprint terá duração de 2 semanas.
 
 
 ## 📝 Status do Projeto  
+
 - [x] Definição do escopo  
 - [x] Modelagem dos diagramas UML  
 - [ ] Desenvolvimento do sistema, banco de dados e interface. *(Em desenvolvimento...)*  
