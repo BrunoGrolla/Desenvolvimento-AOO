@@ -23,17 +23,22 @@ Um sistema de chamados para empresas que utiliza **Inteligência Artificial** pa
 
 ---
 
-## 📖 Sobre o Projeto  .
-O **Sistema de Chamados com Soluções IA** é uma plataforma desenvolvida para empresas que desejam aprimorar o suporte técnico por meio da automação inteligente.  
+## 📖 Sobre o Projeto
+O Sistema de Chamados com Soluções IA é uma plataforma desenvolvida para empresas que desejam aprimorar o suporte técnico por meio da automação inteligente.
 
-🔹 **Objetivo principal:** Reduzir o tempo de resposta no atendimento de chamados utilizando IA para sugerir soluções automáticas.  
-🔹 **Como funciona?** O usuário abre um chamado, a IA analisa a descrição do problema e sugere possíveis soluções com base em uma base de conhecimento e aprendizado de máquina. Caso nenhuma sugestão resolva a questão, o chamado é encaminhado para um atendente humano.  
-🔹 **Público-alvo:** Empresas que buscam melhorar o suporte técnico e reduzir custos operacionais.  
-🔹 **Benefícios esperados:**  
-✔ Agilidade no atendimento  
-✔ Redução da carga de trabalho do suporte humano  
-✔ Aprendizado contínuo para aprimorar as respostas  
+🔹 Objetivo principal:
+Reduzir o tempo de resposta no atendimento de chamados utilizando IA para sugerir soluções automáticas.
 
+🔹 Como funciona?
+O usuário abre um chamado, a IA analisa a descrição do problema e sugere possíveis soluções com base em uma base de conhecimento e aprendizado de máquina. Caso nenhuma sugestão resolva a questão, o chamado é encaminhado para um atendente humano.
+
+🔹 Público-alvo:
+Empresas que buscam melhorar o suporte técnico e reduzir custos operacionais.
+
+🔹 Benefícios esperados:
+✔ Agilidade no atendimento
+✔ Redução da carga de trabalho do suporte humano
+✔ Aprendizado contínuo para aprimorar as respostas
 ---
 
 ## 📌 Backlog do Produto  
