@@ -6,6 +6,23 @@ Um sistema de chamados para empresas que utiliza **Inteligência Artificial** pa
 
 ---
 
+## 📑 Sumário
+- [📖 Sobre o Projeto](#-sobre-o-projeto-)
+- [🎯 Objetivo Principal](#-objetivo-principal)
+- [⚙️ Como Funciona](#️-como-funciona)
+- [👥 Público-alvo](#-público-alvo)
+- [💡 Benefícios Esperados](#-benefícios-esperados)
+- [📌 Backlog do Produto](#-backlog-do-produto)
+  - [📍 Épicos e Funcionalidades](#-épicos-e-funcionalidades)
+  - [📆 Sprints Planejadas](#-sprints-planejadas)
+- [✅ Requisitos Funcionais por Módulo](#✅-requisitos-funcionais-por-módulo)
+- [⚙️ Requisitos Não Funcionais](#️-requisitos-não-funcionais-simplificados)
+- [📈 Status do Projeto](#-status-do-projeto)
+- [📄 Licença](#-licença)
+- [👨‍💻 Equipe de Desenvolvedores](#-equipe-de-desenvolvedores)
+- 
+---
+
 ## 📖 Sobre o Projeto  .
 O **Sistema de Chamados com Soluções IA** é uma plataforma desenvolvida para empresas que desejam aprimorar o suporte técnico por meio da automação inteligente.  
 
@@ -122,5 +139,3 @@ Este projeto está sob a licença **MIT**. Para mais detalhes, veja o arquivo [L
 - [Halysson Lucas R189031](https://github.com/Hass-Lima)
   
 ---** 
-
-
