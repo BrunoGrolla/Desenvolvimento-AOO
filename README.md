@@ -36,9 +36,13 @@ O usuário abre um chamado, a IA analisa a descrição do problema e sugere poss
 Empresas que buscam melhorar o suporte técnico e reduzir custos operacionais.
 
 🔹 Benefícios esperados:
+
 ✔ Agilidade no atendimento
+
 ✔ Redução da carga de trabalho do suporte humano
+
 ✔ Aprendizado contínuo para aprimorar as respostas
+
 ---
 
 ## 📌 Backlog do Produto  
