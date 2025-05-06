@@ -29,9 +29,7 @@ O backlog contém as principais funcionalidades que serão desenvolvidas no sist
 
 ✅ **Prioridade de Chamado**  
 
-✅ **SLA**  
-
-✅ **Segmentação de Área**  
+✅ **SLA**    
 
 ✅ **Inteligência Artificial**  
 
@@ -74,11 +72,6 @@ Cada sprint terá duração de 2 semanas.
 -O sistema deve atribuir prazos máximos para resolução conforme a prioridade.
 -O sistema deve emitir alertas próximos ao vencimento do SLA.
 -O sistema deve gerar relatórios de cumprimento ou violação de SLA.
-
-#### Segmentação de Área
--O sistema deve permitir o cadastro de áreas de atendimento.
--O sistema deve realizar roteamento automático com base na descrição.
--O sistema deve restringir visualizações de chamados a membros da respectiva área.
 
 #### Inteligência Artificial
 -A IA deve analisar a descrição do chamado e sugerir possíveis soluções.
