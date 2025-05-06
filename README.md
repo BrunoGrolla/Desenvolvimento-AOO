@@ -20,7 +20,7 @@ Um sistema de chamados para empresas que utiliza **Inteligência Artificial** pa
 - [📈 Status do Projeto](#-status-do-projeto)
 - [📄 Licença](#-licença)
 - [👨‍💻 Equipe de Desenvolvedores](#-equipe-de-desenvolvedores)
-- 
+
 ---
 
 ## 📖 Sobre o Projeto  .
